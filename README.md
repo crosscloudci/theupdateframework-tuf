@@ -1,1 +1,1 @@
-# testproj-configuration
+# tuf-configuration
