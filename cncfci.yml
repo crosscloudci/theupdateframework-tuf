@@ -1,6 +1,6 @@
  project:
   logo_url: "https://raw.githubusercontent.com/cncf/artwork/master/projects/tuf/icon/color/tuf-icon-color.svg?sanitize=true"
-  display_name: The Update Framework (TUF)
+  display_name: TUF
   sub_title: Software Update Spec
   project_url: "https://github.com/theupdateframework/tuf"
   stable_ref: "v0.12.0"
