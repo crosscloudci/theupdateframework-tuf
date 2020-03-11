@@ -4,11 +4,11 @@
   sub_title: Software Update Spec
   project_url: "https://github.com/theupdateframework/tuf"
   stable_ref: "v0.12.2"
-  head_ref: "develop"
+  head_ref: "master"
   ci_system:
     -
       ci_system_type: "travis-ci"
-      ci_project_url: "https://travis-ci.org/theupdateframework/tuf"  
+      ci_project_url: "https://travis-ci.org/theupdateframework/tuf"
       ci_project_name: "theupdateframework/tuf"
       arch:
         - amd64
