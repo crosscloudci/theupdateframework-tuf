@@ -3,7 +3,7 @@
   display_name: TUF
   sub_title: Software Update Spec
   project_url: "https://github.com/theupdateframework/tuf"
-  stable_ref: "v0.12.2"
+  stable_ref: "v0.13.0"
   head_ref: "develop"
   ci_system:
     -
