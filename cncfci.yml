@@ -7,7 +7,7 @@
   head_ref: "develop"
   ci_system:
     -
-      ci_system_type: "travis-ci"
+      ci_system_type: "travis-ci-com"
       ci_project_url: "https://travis-ci.org/theupdateframework/tuf"
       ci_project_name: "theupdateframework/tuf"
       arch:
