@@ -3,11 +3,11 @@
   display_name: TUF
   sub_title: Software Update Spec
   project_url: "https://github.com/theupdateframework/tuf"
-  stable_ref: "v0.15.0"
+  stable_ref: "v0.16.0"
   head_ref: "develop"
   ci_system:
     -
-      ci_system_type: "travis-ci"
+      ci_system_type: "travis-ci-com"
       ci_project_url: "https://travis-ci.org/theupdateframework/tuf"
       ci_project_name: "theupdateframework/tuf"
       arch:
